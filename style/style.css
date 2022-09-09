@@ -225,6 +225,7 @@ transition: 300ms;
 .item__s3{
     margin-left: 32px;
     box-shadow: #1D293F;
+    box-shadow: 5px 5px 5px rgb(7, 7, 7, 0.2)
 }
 .item__text{
     font-weight: 700;
